@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynWLsMw/Xb8pCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://aranjaygupta.io)
 <h1 align="center">Hi, I'm ARANJAY GUPTA</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software developer from India </h3>
 
 <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -21,6 +21,8 @@
 </p>
 
 - 🌱 I’m currently learning **C++**
+- building problem solving skills using dsa
+- started with dsa and dbms
 - 💬 Ask me about **3D websites, video editing**
 - 📫 How to reach me **0231cse121@niet.co.in**
 - ⚡ Fun fact: **I think I am sweet but spicy...**
